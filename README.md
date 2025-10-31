@@ -1,4 +1,4 @@
-# homework-assignment-1
+# homework-assignment-2
 
 - Resource exception is done by Ashwin Balaji Arun Kumar. 
 - Multiple Exception handling is done by Ulaş Arslan. 
