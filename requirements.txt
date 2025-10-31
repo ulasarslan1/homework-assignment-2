@@ -1,8 +1,6 @@
-- The project has to be a storage management system and task management system.
-- Storage management system includes StockHandler interface and classes: Inventroy, RoboticArm, StorageLocation, StorageManager
-- Task management system includes TaskAssignable interface and classes: Task, TaskManager and TaskQueue.
-- Project also have Logging system, which consists of Logger interface and classes LogEntry and SystemLogger.
-- Project should create a log data in CSV file and perform file operations such as move, delete and archive.
-- Data exchanges should be done by byte and character streams.
-- Log files should be created for each day for all system.
-- File could be searched based on date or equipment. This should be provided by Regex.
+- Project needs to be some exceptions types which are handling Multiple Exceptions, Re-throwing Exceptions, Resource Management and Chaining Exceptions
+- Project needs to have some unit tests.
+
+
+
+
